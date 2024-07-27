@@ -1,8 +1,8 @@
 GOOG725.csv:                     Google stock data for period 2015.5.1-2024.7.25
 
-DLLSTMmpi.py:                     MPI LSTM model
+DLLSTMmpi.py:                     MPI LSTM 
 
-DDLLSTMmpiD.py:                 distributed MPI LSTM model
+DDLLSTMmpiD.py:                 distributed MPI LSTM 
 
 train_predict.csv:                predicted stock prices for the training datasets
 
